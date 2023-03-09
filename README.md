@@ -21,8 +21,8 @@ It includes information about each trip (or ride) made by the users, starting/en
 
 ## Important links
 ### Analysis
-* [Data cleaning and analysis](../master/process_steps.R)
-    > Done in R - Code based on Kevin Hartman's analysis (more info in R file)
+* [Data cleaning and analysis](../master/cyclistic_analysis.R)
+    > Done in R - Code based on Kevin Hartman's analysis (more info in R file). To replicate the analysis, you have to download the files yourself (they're bigger than 25MB) and place them in the /data/ folder (there is one there as an example). The needed files are: ![image](https://user-images.githubusercontent.com/44590316/224054777-04905be0-a915-46e1-ace5-54c9d1761b67.png) And can be found in the "Data source" link below.
 * [Data source](https://divvy-tripdata.s3.amazonaws.com/index.html "Divvy bike-share data")
     > Thanks to Divvy for the data!
     
