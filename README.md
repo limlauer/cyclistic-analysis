@@ -35,4 +35,4 @@ It includes information about each trip (or ride) made by the users, starting/en
     
 ### Social media
 * [My LinkedIn](https://www.linkedin.com/in/luis-imlauer/ "LinkedIn - Luis Imlauer")
-* [My Portfolio](limlauer.github.io "Luis Imlauer portfolio")
+* [My Portfolio](https://limlauer.github.io/ "Luis Imlauer portfolio")
